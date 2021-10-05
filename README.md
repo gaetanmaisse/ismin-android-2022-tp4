@@ -1,4 +1,4 @@
-Part of Android Development - ISMIN 2020
+Part of Android Development - ISMIN
 
 Course followed by students of Mines St Etienne, ISMIN - M2 Computer Science.
 
@@ -11,7 +11,7 @@ Course followed by students of Mines St Etienne, ISMIN - M2 Computer Science.
 The goal is to refactor the app by introducing Fragments.
 
 Preparatory work:
-- Copy everything from previous TP (except the README)
+- Reuse the same projet or copy everything from previous TP (except the README)
 
 Then:
 - Create a `BookListFragment` fragment
@@ -20,7 +20,7 @@ Then:
 - Do the same for all RecyclerView related logic
 
 In `MainActivity`:
-- Add a `<RelativeLayout>` in the layout
+- Add a `<ConstraintLayout>` in the layout
 - Add some code to create a `BookListFragment` fragment and display it
 
 Then:
@@ -38,3 +38,5 @@ Then:
 That's it! You can code!
 
 ## 🛰 Extra
+
+No extra this time!
